@@ -1,0 +1,28 @@
+C:\vs_projects_csharp\DemoEmpleadosParaTesting\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.exe.config
+C:\vs_projects_csharp\DemoEmpleadosParaTesting\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.exe
+C:\vs_projects_csharp\DemoEmpleadosParaTesting\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.pdb
+C:\vs_projects_csharp\DemoEmpleadosParaTesting\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.csprojAssemblyReference.cache
+C:\vs_projects_csharp\DemoEmpleadosParaTesting\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.csproj.CoreCompileInputs.cache
+C:\vs_projects_csharp\DemoEmpleadosParaTesting\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.exe
+C:\vs_projects_csharp\DemoEmpleadosParaTesting\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.pdb
+C:\Users\CETECOM\Downloads\demotesting-master\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.exe.config
+C:\Users\CETECOM\Downloads\demotesting-master\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.exe
+C:\Users\CETECOM\Downloads\demotesting-master\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.pdb
+C:\Users\CETECOM\Downloads\demotesting-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.csprojAssemblyReference.cache
+C:\Users\CETECOM\Downloads\demotesting-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.csproj.CoreCompileInputs.cache
+C:\Users\CETECOM\Downloads\demotesting-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.exe
+C:\Users\CETECOM\Downloads\demotesting-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.pdb
+E:\Desarrollo Net\demotesting-master\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.exe.config
+E:\Desarrollo Net\demotesting-master\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.exe
+E:\Desarrollo Net\demotesting-master\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.pdb
+E:\Desarrollo Net\demotesting-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.csprojAssemblyReference.cache
+E:\Desarrollo Net\demotesting-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.csproj.CoreCompileInputs.cache
+E:\Desarrollo Net\demotesting-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.exe
+E:\Desarrollo Net\demotesting-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.pdb
+C:\Users\CETECOM\Desktop\Tarea-Testing-master\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.exe.config
+C:\Users\CETECOM\Desktop\Tarea-Testing-master\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.exe
+C:\Users\CETECOM\Desktop\Tarea-Testing-master\DemoEmpleadosParaTesting\bin\Debug\DemoEmpleadosParaTesting.pdb
+C:\Users\CETECOM\Desktop\Tarea-Testing-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.csprojAssemblyReference.cache
+C:\Users\CETECOM\Desktop\Tarea-Testing-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.csproj.CoreCompileInputs.cache
+C:\Users\CETECOM\Desktop\Tarea-Testing-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.exe
+C:\Users\CETECOM\Desktop\Tarea-Testing-master\DemoEmpleadosParaTesting\obj\Debug\DemoEmpleadosParaTesting.pdb
